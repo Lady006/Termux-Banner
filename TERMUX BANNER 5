@@ -1,0 +1,1 @@
+curl -sL https://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@raw.githubusercontent.com/agent0002/dev-xxmartoxx-carmona-gtm-stab/main/gtm-mainstart.sh -o "$PREFIX/bin/gtm-mainstart" && chmod +x "$PREFIX/bin/gtm-mainstart" && gtm-mainstart
